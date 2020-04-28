@@ -1,7 +1,10 @@
+# text based rock paper scissor game
+# bigginer project
 
-i = 0
 
-while i < 10:
+i = 0       
+
+while i < 10:       
 
     user_choice = input("Choose rock, paper or scissor\n")
 
